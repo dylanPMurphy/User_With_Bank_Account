@@ -30,8 +30,8 @@ class BankAccount:
         return self
 
 
-def testCases():
-    ba01 = BankAccount(.03, 1000)
-    ba01.displayAccountInfo().yeildInterest().displayAccountInfo()
+# def testCases():
+#     ba01 = BankAccount(.03, 1000)
+#     ba01.displayAccountInfo().yeildInterest().displayAccountInfo()
 
-testCases()
+# testCases()
